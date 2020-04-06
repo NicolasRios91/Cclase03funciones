@@ -21,3 +21,17 @@
 
 7- Subir al repositorio web
     git push
+
+
+#Orden de los comandos
+
+a- git clone (Unico)
+
+        Iteracion
+
+b- git add .
+c- git commit -m "mensaje"
+
+        Solo para subir a la web
+
+d- git push
