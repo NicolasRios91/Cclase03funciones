@@ -1,4 +1,4 @@
-# Villegas Octavio
+# Ríos Paredes Ricardo Nicolás
 # Tutorial de Git + GitHub
 
-complete los datosn aquí!!!
+-- La primera vez
